@@ -1,2 +1,2 @@
-ls-ntr
+ls -ltr
 dh -f
